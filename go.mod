@@ -7,6 +7,6 @@ require (
 	github.com/mitchellh/go-homedir v1.1.0
 	k8s.io/api v0.17.3
 	k8s.io/apimachinery v0.17.3
-	k8s.io/client-go v11.0.0+incompatible
+	k8s.io/client-go v0.17.3
 	sigs.k8s.io/controller-runtime v0.5.0
 )
