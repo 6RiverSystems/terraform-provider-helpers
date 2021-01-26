@@ -58,3 +58,7 @@ func expandStringSlice(s []interface{}) []string {
 	}
 	return result
 }
+
+func ptrToBool(b bool) *bool {
+	return &b
+}
